@@ -1,1 +1,3 @@
 /venv
+/uscf-ratings-fetcher-extension
+*.csv
